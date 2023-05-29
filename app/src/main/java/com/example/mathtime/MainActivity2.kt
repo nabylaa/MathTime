@@ -46,7 +46,7 @@ class MainActivity2 : AppCompatActivity(), View.OnClickListener {
             "x" -> hitungHasil = nilai1 * nilai2
             "/" -> hitungHasil = nilai1 / nilai2
             "+" -> hitungHasil = nilai1 + nilai2
-            "_" -> hitungHasil = nilai1 - nilai2
+            "-" -> hitungHasil = nilai1 - nilai2
             else -> {
                 Toast.makeText(this, "Silahkan Pilih Operator", Toast.LENGTH_SHORT).show()
             }
