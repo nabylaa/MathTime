@@ -14,7 +14,6 @@ class StartActivity : AppCompatActivity(), View.OnClickListener {
         Start = findViewById(R.id.start)
         Start.setOnClickListener(this)
     }
-
     override fun onClick(v: View) {
         when(v.id){
             R.id.start->{

@@ -53,7 +53,6 @@ class MainActivity2 : AppCompatActivity(), View.OnClickListener {
         }
         return hitungHasil.toString()
     }
-
     override fun onClick(v: View) {
         when(v.id){
             R.id.btn_exit->{
