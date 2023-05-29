@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math Time</string>
+    <string name="welcoming_page">Welcoming Page</string>
+    <string-array name="sp_operator">
+        <item>-Pilih Operator</item>
+        <item>x</item>
+        <item>/</item>
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+
+</resources>
